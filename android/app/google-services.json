@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "347168569826",
+    "project_id": "social-app-effa6",
+    "storage_bucket": "social-app-effa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347168569826:android:b6b12784bbf6c3009121bb",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347168569826-kk73mmp84jt7a6mhc2cmc9fsqh88s4se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_app",
+            "certificate_hash": "659dd04991152733434fb43503ad720305783870"
+          }
+        },
+        {
+          "client_id": "347168569826-igtlfjlpmqo3bu9k8p6rd58628tpqm2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaka_49pUdDij1u02FSom9eMoDbIkGdzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347168569826-igtlfjlpmqo3bu9k8p6rd58628tpqm2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
