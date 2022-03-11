@@ -1,16 +1,7 @@
 # social_app
 
-A new Flutter application.
+Flutter application using Bloc, Firebase, and shared preferences.
 
-## Getting Started
+The social media app is a facebook type app that is programmed by the Firebase backend, there are many details like shared preferences to save user’s token to see if he/she logged before ,Login, Register, post creation, comment, chat messages And finally, the settings screen so you can change your data or sign out.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![social_app](https://user-images.githubusercontent.com/99914704/157898652-fbbeba1a-3844-434f-9672-1eb79610eff8.png)
